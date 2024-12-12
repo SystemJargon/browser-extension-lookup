@@ -2,9 +2,6 @@
 
 ## Lookup web browser extensions by their Identifier
 
-
-Some dependancies are required in Ubunutu 24.04 LTS. Previous versions of Ubuntu may vary with how-to especially with lxml_html_clean.
-
 This repo shows how to achieve this via python.
 
 Note: For Windows you can maybe use the ChromeDriver with PowerShell and/or leverage Selenium to achieve a similar result to scrape the data.
