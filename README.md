@@ -20,7 +20,9 @@ pip install lxml_html_clean
 
 Edge
 
-`python3 edge-extensions.py edge.txt`
+`python3 edge-extensions.py sample_edge.txt`
+
+note: sample_edge.txt would be the extension ID of the extension/s you wish to look up.
 
 Chrome
 
